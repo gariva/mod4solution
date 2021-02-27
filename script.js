@@ -42,7 +42,7 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
 // See Lecture 50, part 1
 for (name of names) {
   firstLetter = name.charAt(0).toLowerCase();
-  console.log(name);
+  
 
 
   // STEP 11:
